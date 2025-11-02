@@ -36,7 +36,7 @@ rock-paper-scissors-flask/
 
 **⚙️ Setup Instructions**
 1️⃣ Clone the repository
-git clone https://github.com/zanijamil30-ops/rock-paper-scissors.git
+git clone github.com/zanijamil30-ops/rock-paper-scissors.git
 cd rock-paper-scissors-flask
 
 2️⃣ Create a virtual environment
