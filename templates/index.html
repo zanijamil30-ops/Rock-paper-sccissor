@@ -1,1 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rock Paper Scissors</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+  <div class="container">
+    <h1>🪨 Rock · 📄 Paper · ✂️ Scissors</h1>
+
+    <div class="choices">
+      <button class="choice" data-choice="rock">✊ Rock</button>
+      <button class="choice" data-choice="paper">✋ Paper</button>
+      <button class="choice" data-choice="scissors">✌️ Scissors</button>
+    </div>
+
+    <div class="result-box">
+      <p id="user-choice">🧑 You chose: —</p>
+      <p id="computer-choice">💻 Computer chose: —</p>
+      <p id="result-text">Make your move!</p>
+    </div>
+
+    <footer>
+      <p>Built with ❤️ using Flask | Example Project</p>
+    </footer>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
 
