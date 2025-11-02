@@ -1,1 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+instance/
+.pytest_cache/
+*.db
+*.sqlite3
+
+# Flask logs
+*.log
+*.bak
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
 
