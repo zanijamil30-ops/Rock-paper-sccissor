@@ -1,4 +1,6 @@
 🎮 Rock · Paper · Scissors — Flask Web App
+![screenshot](https://github.com/user-attachments/assets/34c9b43e-ee14-41b9-907d-6db638f0e405)
+
 
 A clean and fun Flask-based Rock · Paper · Scissors game built with Python, HTML, CSS, and JavaScript.
 
@@ -14,20 +16,23 @@ A clean and fun Flask-based Rock · Paper · Scissors game built with Python, HT
 
 
 🧱 Project Structure
+
+```text
 rock-paper-scissors-flask/
 │
 ├── app.py                     # Main Flask app
-├── requirements.txt            # Python dependencies
-├── README.md                   # Project overview & usage
-├── LICENSE                     # MIT License
-├── .gitignore                  # Ignore build/cache files
+├── requirements.txt           # Python dependencies
+├── README.md                  # Project overview & usage
+├── LICENSE                    # MIT License
+├── .gitignore                 # Ignore build/cache files
 │
-├── templates/                  # HTML templates
+├── templates/                 # HTML templates
 │   └── index.html
 │
-└── static/                     # Static assets
+└── static/                    # Static assets
     ├── style.css
     └── script.js
+```
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repository
