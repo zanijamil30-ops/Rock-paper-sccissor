@@ -1,4 +1,16 @@
-**🎮 Rock · Paper · Scissors — Flask Web App**
+<!-- ============================================ -->
+<!--        💫 README HEADER SECTION              -->
+<!-- ============================================ -->
+
+<h1 align="center" style="font-size: 36px;">
+🎮 <b>Rock · Paper · Scissors — Flask Web App</b>
+</h1>
+
+<p align="center">
+  A clean and fun <b>Flask-based Rock · Paper · Scissors</b> game built with 
+  <b>Python</b>, <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.
+</p>
+
 ![screenshot](https://github.com/user-attachments/assets/34c9b43e-ee14-41b9-907d-6db638f0e405)
 
 
